@@ -6,4 +6,5 @@ Materials Used:
 
 Capacitors (110nF) x 2, Resistors (1K Ohm) x 2, Bread board, Wires, Oscilloscope, Function generator, Voltage source
 
+![Input and Output Wave](IMG_9948 2.HEIC)
 
